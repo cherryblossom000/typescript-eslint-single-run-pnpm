@@ -1,0 +1,13 @@
+{
+  "name": "typescript-eslint-single-run-pnpm",
+  "version": "0.0.1",
+  "private": true,
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^4.29.3",
+    "eslint": "^7.32.0",
+    "typescript": "~4.3.5"
+  }
+}
